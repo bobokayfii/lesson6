@@ -1,0 +1,274 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    width: 1440px;
+    margin: 0 auto;
+}
+header p{
+    text-align: center;
+    font-size: 17px;
+    background-color: #B36050;
+    padding: 9px 576px 10px;
+    color: #EDCCB2;
+    
+}
+.menus{
+    width: 1440px;
+    background-color: #F6F4EC;
+    height: 61px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+a{
+    text-decoration: none;
+    color: #B4604D;
+    font-size: 18px;
+    line-height: 29px;
+    align-items: center;
+    margin: 0;
+    display: inline-block;
+}
+.logo1{
+    display: inline-block;
+    padding-left: 291px;
+    padding-right: 541px;
+    padding-top: 5px;
+    padding-bottom: 9px;
+}
+.wop{
+    padding: 16px 28px 16px 22px;
+}
+.edit{
+    padding: 16px 0px;
+}
+.story{
+    padding:16px 32px;
+}
+.reviews{
+    padding: 16px 0px;
+}
+.logo2{
+    width: 1440px;
+    margin: 0 auto;
+}
+.akk{
+    padding:19px;
+    margin-left: -50px;
+}
+.main{
+    background-color: #A9AE8D;
+    color: #F6F4EC;
+    font-family: 'Roboto', sans-serif;
+    width: 1440px;
+    margin: 0 auto;
+    margin-top: -5px;
+}
+.main .p1{
+    font-size: 18px;
+    padding: 69px 599px 15px;
+}
+.main .p2{
+    font-size: 28px;
+    padding: 0px 492px 28px;
+}
+.main-a{
+    background: #B45F4D;
+    width: 128px;
+    color: #ECD7D2;
+    font-size: 17px;
+    padding: 9px 20px;
+    margin: 0px 656px 52px;
+}
+.main-a:hover{
+    background-color:#894435;
+    color: white;
+    transition: 0.6s;
+}
+.main2{
+    width: 1440px;
+    margin: 0 auto;
+    background-color: #F6F4EC;
+    font-family: 'Roboto', sans-serif;
+
+}
+.main2-p{
+    font-size: 23px;
+    color: #B45F4D;
+    display: inline-block;
+    padding:39px 621px 44px ;
+}
+.logo4{
+    padding: 0px 80px 0px 70px;
+}
+.logo5{
+    padding: 0px 0px 0px 0px;
+}
+.logo6{
+    padding: 0px 50px 0px 80px;
+}
+.logo7{
+    padding-left: 70px;
+    padding-top: 10px;
+    
+}
+.logo8{
+    padding-left: 80px;
+    padding-top: 10px;
+}
+.logo9{
+     padding-left: 80px;
+    padding-top: 10px;
+}
+.strelka{
+    padding: 32px 81px 45px;
+}
+.main3{
+    width: 1440px;
+    margin: 0 auto;
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+   
+}
+.into{
+    width: 1219px;
+    height: 414px;
+    padding: 271px 0px 51px;
+    background-image: url(images/logo11.svg);
+    display: flex;
+
+}
+.into-p{
+    color: #F6F4EC;
+    background-color: #DF9B7A;
+    font-size: 20px;
+    padding: 30px 513px 30px 30px;
+}
+.into-p2{
+    color: #F6F4EC;
+    font-size: 18px;
+   margin-left: -150px;
+    padding: 30px;
+}
+.in{
+    padding:34px 111px 40px 110px ;
+}
+.main4{
+    width: 1440px;
+    margin: 0 auto;
+    background-color: #F1D3B9;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    color: #B45F4D;
+    margin-bottom: 55px;
+}
+.girl{
+    padding: 84px 53px 96px 190px;
+}
+.text{
+    width: 518px;
+    height: 582px;
+    background-color: #F8F8F8;
+}
+.full{
+    padding: 160px 168px 172px 0px;
+
+}
+.text1{
+    font-size: 30px;
+   padding: 50px 194px 22px; 
+}
+.text2{
+    font-size: 19px;
+    padding: 0px 52px 41px 20px;
+    line-height: 30px;
+}
+.text3{
+    font-size: 16px; 
+    padding: 0px 388px 50px 50px;
+}
+.main5{
+    width: 1440px;
+    margin: 0 auto;
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+
+}
+.zagalovka{
+    font-size: 23px;
+    padding: 54px 616px 48px;
+}
+.logos{
+    padding-left: 20px;
+    padding-right: 5px;
+    padding-bottom: 40px;
+}
+.footer{
+    width: 1440px;
+    margin: 0 auto;
+    background-color: #F6F4EC;
+    font-family: 'Roboto', sans-serif;
+    color: #C88D7E;
+    display: flex;
+}
+.a1{
+    padding: 64px 112px 57x 50px;
+    font-size: 14px;
+}
+.a2{
+    font-size: 14px; 
+}
+.a1 .p1{
+    padding: 64px 112px 12px 50px;
+}
+.a1 .p2{
+    padding: 0px 129px 0px 50px;
+}
+.a1 .p3{
+    padding: 12px 175px 12px 50px;
+}
+.a1 .p4{
+    padding: 0px 152px 57px 50px;
+}
+.a2 .p1{
+    padding: 64px 513px 12px 0px;
+}
+.a2 .p2{
+    padding: 0px 489px 0px 0px;
+}
+.a2 .p3{
+    padding: 12px 520px 12px 0px;
+}
+.a2 .p4{
+    padding: 0px 536px 57px 0px;
+}
+.a3 .p1{
+    font-size: 14px;
+    padding: 62px 0px 12px 0px;
+}
+.border{
+    padding: 0px 40px 20px 0px;
+}
+.a3 .p2{
+    font-size: 14px;
+    padding: 0px 0px 10px 0px;
+}
+.a3 .p3{
+    font-size: 14px;
+    padding: 0px 0px 31px 0px;
+}
+.a3{
+    display: inline-block;
+}
+.a3 .p4{
+    text-align: center;
+    margin-left: -900px;
+}
+
+
+
